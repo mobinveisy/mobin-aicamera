@@ -1,0 +1,7 @@
+{
+  "name": " mobin camera ai ",
+  "description": "An interactive 3D particle system that responds to hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
